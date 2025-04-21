@@ -7,7 +7,7 @@ import Header from './components/Header';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/planttt-store">
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route
