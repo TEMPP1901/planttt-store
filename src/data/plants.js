@@ -3,8 +3,8 @@ export const plants = [
     id: 1,
     name: 'Orchid',
     price: 29.99,
-    thumbnail: '/planttt-store/assets/images/Orchid.jpg',
-    category: 'Flowering',
+    thumbnail: '/planttt-store/assets/images/Orchid.jpg', // Đường dẫn đầy đủ để hoạt động trên GitHub Pages
+    category: 'Flowering', // Loại cây
   },
   {
     id: 2,
@@ -29,7 +29,7 @@ export const plants = [
   },
   {
     id: 5,
-    name: 'Moonstera',
+    name: 'Monstera',
     price: 17.99,
     thumbnail: '/planttt-store/assets/images/Monstera.jpg',
     category: 'Foliage',
