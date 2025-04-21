@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/planttt-store/static/css/main.36d7c0db.css",
+    "main.js": "/planttt-store/static/js/main.24c1c47c.js",
+    "index.html": "/planttt-store/index.html",
+    "main.36d7c0db.css.map": "/planttt-store/static/css/main.36d7c0db.css.map",
+    "main.24c1c47c.js.map": "/planttt-store/static/js/main.24c1c47c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36d7c0db.css",
+    "static/js/main.24c1c47c.js"
+  ]
+}
