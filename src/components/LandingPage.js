@@ -6,7 +6,7 @@ function LandingPage() {
     <div
       className="landing-page"
       style={{
-        backgroundImage: 'url(/assets/images/background.png)',
+        backgroundImage: 'url(/planttt-store/assets/images/background.png)',
       }}
     >
       <h1>Cửa Hàng Cây Cảnh</h1>
